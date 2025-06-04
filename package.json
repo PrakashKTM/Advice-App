@@ -1,9 +1,9 @@
 {
-  "name": "weatherapp",
+  "name": "adviceapp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://prakashktm.github.io/Advice-App",
+  "homepage": "https://prakashktm.github.io/Advice-App/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
