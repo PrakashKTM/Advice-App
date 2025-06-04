@@ -1,0 +1,29 @@
+*{
+    background-color: red;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    color: white;
+    text-align: center;
+}
+div button{
+    background-color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    
+}
+div p{
+    padding: 10px;
+}
+div p span{
+    background-color: black;
+    padding: 2px 10px;
+    border-radius: 3px;
+}
